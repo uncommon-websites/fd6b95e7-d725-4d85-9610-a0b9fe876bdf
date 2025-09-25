@@ -26,10 +26,9 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Culture you can actually hire for"
+	subtitle="Values-backed teams start here"
+	imageSrc="/generated/image-a-modern-stockholm-startup-team-of-3-4-p.webp"
 />
 
 <!-- Story Section -->
