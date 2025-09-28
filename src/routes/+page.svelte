@@ -62,24 +62,38 @@
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Attract culture-aligned talent"
+	subtitle="Transform your invisible team culture into a magnetic talent attractor"
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "AI culture discovery",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"Lucy AI automatically captures your team's principles, rituals, and values from everyday interactions. No surveys or manual input required."
 		},
 		{
-			title: "Data Analysis",
+			title: "Smart candidate pre-qualification",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"Stop wasting weeks screening misaligned candidates. Our AI matches culture profiles before you even meet them."
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Culture-to-talent matching",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"Transform your invisible culture into searchable profiles that attract candidates who thrive in your exact environment."
+		},
+		{
+			title: "Automated culture profiling",
+			description:
+				"Scale culture-based hiring without manual work. Our system continuously updates your culture profile as your team evolves."
+		},
+		{
+			title: "Senior talent magnetism",
+			description:
+				"Attract experienced professionals who value culture fit over just compensation. Perfect for competitive Stockholm tech market."
+		},
+		{
+			title: "Recruiter-free hiring",
+			description:
+				"Skip expensive recruiters and attract pre-qualified, culture-aligned candidates directly to your opportunities."
 		}
 	]}
 />
